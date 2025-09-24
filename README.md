@@ -1,5 +1,5 @@
-This REPO contain all the microcode i made when i was in college
-everything about basic of coding are here but not include the data structure code
+This REPO contain all the microcode i made when i was in college,
+everything about basic of coding are here but not include the data structure code.
 There is:
 - Input/Output
 - Array
